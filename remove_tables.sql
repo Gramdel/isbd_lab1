@@ -1,0 +1,1 @@
+DROP TABLE city_type, location, city, job, doubt, expectation, citizen, technology, citizen_technology;
